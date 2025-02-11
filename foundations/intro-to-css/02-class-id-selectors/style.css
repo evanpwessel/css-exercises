@@ -1,0 +1,16 @@
+.Odd{
+    background-color: lightpink;
+    font: verdana, sans-serif;
+
+}
+
+#Num2{
+    color: blue;
+    font-size: 36px;
+}
+
+#Num4{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
